@@ -1,0 +1,12 @@
+.fusion-header-layout-v2.fusion-top-header .fusion-main-menu>ul>li>a{
+    font-size: 18px;
+}
+.fusion-header .fusion-logo {
+    margin-top: 21px !important;
+    margin-right: 0px;
+    margin-bottom: 10px !important;
+    margin-left: 0px;
+}
+.fusion-footer .custom-html-widget img{
+    width: 20%
+}
